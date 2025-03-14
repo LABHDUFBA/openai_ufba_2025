@@ -425,7 +425,7 @@ ____
 - **Aplicação do modelo CLIP (Contrastive Language-Image Pretraining), desenvolvido pela OpenAI**; 
 <br><br>
 
-- **Semântica Rica, Zero-Shot Learning e Escalabilidade**.  
+- **Semântica Rica, Zero-Shot Learning e Escalabilidade**.
 <br><br>
 
 :::
