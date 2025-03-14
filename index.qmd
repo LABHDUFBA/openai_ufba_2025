@@ -194,7 +194,7 @@ ____
 
 ::: {.incremental}
 
-- Dados digitais contituem um **"objeto epistêmico complexo"** [Aradau & Blanke, 2015](http://dx.doi.org/10.1177/2053951715609066)
+- Dados digitais constituem um **"objeto epistêmico complexo"** [Aradau & Blanke, 2015](http://dx.doi.org/10.1177/2053951715609066)
 <br><br>
 
 - **Estratégia penelopeana de desinformação e radicalização**
@@ -238,7 +238,7 @@ ____
 ::: {.column width="65%"}
 ::: {.incremental}
 
-- Em parceria com o Programa Integrado em Economia, Tecnologia e Inovação em Saúde (PECS/ISC/UFBA) e apoio do CNPq.
+- Em parceria com o Programa Integrado em Economia, Tecnologia e Inovação em Saúde (PECS/ISC/UFBA) e apoio do CNPq;
 <br><br>
 
 - Coletar e analisar dados de redes sociais, sites de notícias e aplicativos de mensagens;
@@ -276,7 +276,7 @@ ____
 - **Servem para a compreensão contextualizada de dados, especialmente em contextos de grandes volumes de informações heterogêneas**;
 <br><br>
 
-- **Em contexto políticos os KG ajudam a conectar conceitos possibilitando análises sobre as dinâmicas de narrativas (OSMONOVA; TIKHONOV; YAMSHCHIKOV, 2024)**;
+- **Em contexto políticos os KG ajudam a conectar conceitos possibilitando análises sobre as dinâmicas de narrativas (OSMONOVA; TIKHONOV; YAMSHCHIKOV, 2024)**.
 <br><br>
 
 :::
@@ -295,7 +295,7 @@ ____
 
 ::: {.incremental}
 
-- **945k de mensagens de 01/01/2023 a 10/01/2023 em 207 grupos e 268 canais do Telegram**.  
+- **945k de mensagens de 01/01/2023 a 10/01/2023 em 207 grupos e 268 canais do Telegram**;
 <br><br>
 
 - **Amostra de 7610 mensagens (5825 de grupos e 1785 de canais) que continham os termos “forças armadas” ou “militares”**; 
@@ -324,7 +324,7 @@ ____
 - **KG resultante apresenta quatro grandes narrativas ou (clusters) principais: a) intervenção militar; b) força nacional; c) Brasil popular e d) governo Bolsonaro**; 
 <br><br>
 
-- **Resultados são valiosos em cenários mutáveis em que precisamos entender os impacto de narrativas políticas no comportamento social (JUNGHERR, 2015).**.
+- **Resultados são valiosos em cenários mutáveis em que precisamos entender os impacto de narrativas políticas no comportamento social (JUNGHERR, 2015).**
 <br><br>
 :::
 
